@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrPotato95
+- 👋 Hi, I’m Radu
 - 👀 I’m interested in Front-End development.
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 <!---
